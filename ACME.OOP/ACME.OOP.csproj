@@ -9,7 +9,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Procurement\" />
+      <Folder Include="Procurement\Domain\Model\Aggregates\" />
       <Folder Include="Shared\Domain\Model\Aggregates\" />
     </ItemGroup>
 
