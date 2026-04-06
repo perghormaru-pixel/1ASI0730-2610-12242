@@ -1,4 +1,4 @@
-namespace oop_sample.Shared.Domain.Model.ValueObjects;
+namespace oop_sample.SCM.Domain.Model.ValueObjects;
 
 /// <summary>
 /// Represents a supplier identifier value object in the Supply Chain Management (SCM) bounded context

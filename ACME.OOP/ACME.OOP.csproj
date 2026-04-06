@@ -10,7 +10,7 @@
 
     <ItemGroup>
       <Folder Include="Procurement\" />
-      <Folder Include="SCM\" />
+      <Folder Include="Shared\Domain\Model\Aggregates\" />
     </ItemGroup>
 
 </Project>
