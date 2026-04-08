@@ -19,8 +19,8 @@ public record Money
     
     public Money(decimal amount, string currency)
     {
-        if(string.IsNullOrWhiteSpace(currency) || currency.Length != 3)
-            throw new ArgumentException("Currency must be a 3-letter code"); nameof(currency);
+        if (string.IsNullOrWhiteSpace(currency) || currency.Length != 3)
+            throw new ArgumentException($"Currency must be a 3-letter code: {currency}");
         Amount = amount;
         Currency = currency;
     }

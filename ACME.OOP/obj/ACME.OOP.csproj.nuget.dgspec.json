@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alumnos/u202417743/oop-sample/ACME.OOP/ACME.OOP.csproj": {}
+    "C:\\Users\\luis_\\RiderProjects\\1ASI0730-2610-12242\\ACME.OOP\\ACME.OOP.csproj": {}
   },
   "projects": {
-    "/Users/alumnos/u202417743/oop-sample/ACME.OOP/ACME.OOP.csproj": {
+    "C:\\Users\\luis_\\RiderProjects\\1ASI0730-2610-12242\\ACME.OOP\\ACME.OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alumnos/u202417743/oop-sample/ACME.OOP/ACME.OOP.csproj",
+        "projectUniqueName": "C:\\Users\\luis_\\RiderProjects\\1ASI0730-2610-12242\\ACME.OOP\\ACME.OOP.csproj",
         "projectName": "ACME.OOP",
-        "projectPath": "/Users/alumnos/u202417743/oop-sample/ACME.OOP/ACME.OOP.csproj",
-        "packagesPath": "/Users/alumnos/.nuget/packages/",
-        "outputPath": "/Users/alumnos/u202417743/oop-sample/ACME.OOP/obj/",
+        "projectPath": "C:\\Users\\luis_\\RiderProjects\\1ASI0730-2610-12242\\ACME.OOP\\ACME.OOP.csproj",
+        "packagesPath": "C:\\Users\\luis_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luis_\\RiderProjects\\1ASI0730-2610-12242\\ACME.OOP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/alumnos/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\luis_\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/alumnos/.dotnet/sdk/10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Users\\luis_\\.dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

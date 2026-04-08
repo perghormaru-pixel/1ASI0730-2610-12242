@@ -1,0 +1,15 @@
+C:\Users\luis_\RiderProjects\1ASI0730-2610-12242\ACME.OOP\obj\Debug\net10.0\ACME.OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis_\RiderProjects\1ASI0730-2610-12242\ACME.OOP\obj\Debug\net10.0\ACME.OOP.AssemblyInfoInputs.cache
+C:\Users\luis_\RiderProjects\1ASI0730-2610-12242\ACME.OOP\obj\Debug\net10.0\ACME.OOP.AssemblyInfo.cs
+C:\Users\luis_\RiderProjects\1ASI0730-2610-12242\ACME.OOP\obj\Debug\net10.0\ACME.OOP.csproj.CoreCompileInputs.cache
+C:\Users\luis_\RiderProjects\1ASI0730-2610-12242\ACME.OOP\obj\Debug\net10.0\ACME.OOP.sourcelink.json
+C:\Users\luis_\RiderProjects\1ASI0730-2610-12242\ACME.OOP\bin\Debug\net10.0\ACME.OOP.exe
+C:\Users\luis_\RiderProjects\1ASI0730-2610-12242\ACME.OOP\bin\Debug\net10.0\ACME.OOP.deps.json
+C:\Users\luis_\RiderProjects\1ASI0730-2610-12242\ACME.OOP\bin\Debug\net10.0\ACME.OOP.runtimeconfig.json
+C:\Users\luis_\RiderProjects\1ASI0730-2610-12242\ACME.OOP\bin\Debug\net10.0\ACME.OOP.dll
+C:\Users\luis_\RiderProjects\1ASI0730-2610-12242\ACME.OOP\bin\Debug\net10.0\ACME.OOP.pdb
+C:\Users\luis_\RiderProjects\1ASI0730-2610-12242\ACME.OOP\obj\Debug\net10.0\ACME.OOP.dll
+C:\Users\luis_\RiderProjects\1ASI0730-2610-12242\ACME.OOP\obj\Debug\net10.0\refint\ACME.OOP.dll
+C:\Users\luis_\RiderProjects\1ASI0730-2610-12242\ACME.OOP\obj\Debug\net10.0\ACME.OOP.pdb
+C:\Users\luis_\RiderProjects\1ASI0730-2610-12242\ACME.OOP\obj\Debug\net10.0\ACME.OOP.genruntimeconfig.cache
+C:\Users\luis_\RiderProjects\1ASI0730-2610-12242\ACME.OOP\obj\Debug\net10.0\ref\ACME.OOP.dll
