@@ -1,19 +1,19 @@
 namespace oop_sample.Procurement.Domain.Model.ValueObjects;
 
 /// <summary>
-/// Represents a product identifier in the proccurement bounded context. This
+/// Represents a product identifier in the procurement bounded context.
+/// This value object encapsulates the unique identifier for a product, ensuring that it is valid and cannot be an empty GUID.
+/// It provides a factory method to create new instances with a new GUID and overrides the ToString method for easy representation.
 /// </summary>
-
 public record ProductId
 {
     public Guid Id { get; init; }
     
     /// <summary>
-    /// Creates a new instance of <see cref="ProductId"/>
+    /// Creates a new instance of <see cref="ProductId"/> 
     /// </summary>
-    /// <param name="id">The unique identifier for the product. Must not be an empty GUID</param>
-    /// <exception cref="ArgumentException">Trhown when the provided id is empty GUID</exception>
-    
+    /// <param name="id">The unique identifier for the product. Must not be an empty GUID.</param>
+    /// <exception cref="ArgumentException">Thrown when the provided id is an empty GUID.</exception>
     public ProductId(Guid id)
     {
         if (id == Guid.Empty)
@@ -22,12 +22,14 @@ public record ProductId
     }
     
     /// <summary>
-    /// Creates a new instance of <see cref="ProductId"/>
+    /// Creates a new instance of <see cref="ProductId"/> containing a GUID value. 
     /// </summary>
-    /// <param name="id">The unique identifier </param>
-    /// <returns></returns>
+    /// <returns>A new instance of <see cref="ProductId"/> with a new GUID value.</returns>
     public static ProductId New() => new(Guid.NewGuid());
     
+    /// <summary>
+    /// Returns a string representation of the product identifier. 
+    /// </summary>
+    /// <returns>A string representation of the product identifier.</returns>
     public override string ToString() => Id.ToString();
-    
 }
